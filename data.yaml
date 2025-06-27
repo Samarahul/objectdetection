@@ -1,0 +1,9 @@
+path: C:/Users/Hp/Downloads/odataset
+
+train: train/images
+val: test/images  # using test as validation set since no 'valid/' folder
+
+names:
+  0: L1
+  1: L2
+  2: L3
